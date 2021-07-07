@@ -90,7 +90,7 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
   <a href="https://twitter.com/YashVor68839020" target="_blank"><img src="/Images/twitter_icon.png" height=30 width=30></a>
   &nbsp;&nbsp;
   <!--  Facebook Link  -->
-  <a href="https://www.facebook.com/yash.vora.988/" target="_blank"><img src="/Images/facebook_icon.png" height=30 width=30></a>
+  <a href="https://www.facebook.com/yash.vora.988/" target="_blank"><img src="https://www.flaticon.com/free-icon/facebook_124010" height=30 width=30></a>
   &nbsp;&nbsp;
   <!--  Google Link  -->
   <a href="mailto:yashcvora@gmail.com" target="_blank"><img src="/Images/google_icon.png" height=30 width=30></a>
