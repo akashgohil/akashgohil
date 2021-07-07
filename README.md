@@ -42,6 +42,8 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <!--  PyCharm Badge  -->
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <!--  Colab Badge  -->
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
   <!--  Anaconda Badge  -->
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
   <!--  Jupyter Badge  -->
@@ -56,6 +58,8 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> 
   <!--  Scikit Learn Badge  -->
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
+  <!--  Power BI Badge  -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> 
 
   
    
