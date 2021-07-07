@@ -38,6 +38,8 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <!--  Sublime Badge  -->
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+  <!--  Wordpress Badge  -->
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <!--  PyCharm Badge  -->
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   <!--  Anaconda Badge  -->
