@@ -28,44 +28,35 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
 <h3 align="center"><i>Tools & Technologies</i></h3>
 <p align="center">
   <!-- Link for badges - https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-  -->
-  <!--  C Badge  -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
-  <!--  C++ Badge  -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  <!--  Java Badge  -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <!--  Android Studio Badge  -->
-  <img src="https://img.shields.io/badge/Android_Studio-2800ff?style=for-the-badge&logo=android-studio&logoColor=white">
-  <!--  Firebase Badge  -->
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  <!--  PHP Badge  -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-  <!--  Postman Badge  -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
+  <!--  Python Badge  -->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+  <!--  R Badge  -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <!-- HTML Badge   -->
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <!--  CSS Badge  -->
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <!--  Sublime Badge  -->
+  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+  <!--  PyCharm Badge  -->
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <!--  Anaconda Badge  -->
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+  <!--  Jupyter Badge  -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <!--  Git Badge  -->
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <!--  MYSQL Badge  -->
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <!--  SQLite Badge  -->
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
-  <!--  Python Badge  -->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
   <!--  Pandas Badge  -->
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> 
   <!--  Numpy Badge  -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> 
   <!--  Scikit Learn Badge  -->
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
-  <!--  Anaconda Badge  -->
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
-  <!--  Jupyter Badge  -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <!--  PyCharm Badge  -->
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <!--  R Badge  -->
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+
+  
+   
 </p>
 
 <!-- My GitHub Stats -->
@@ -90,7 +81,7 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
   <a href="https://twitter.com/gohilakash1442" target="_blank"><img src="/Images/twitter.png" height=30 width=30></a>
   &nbsp;&nbsp;
   <!--  Facebook Link  -->
-  <a href="https://www.facebook.com/akash.gohil.37/" target="_blank"><img src="facebook.png" height=30 width=30></a>
+  <a href="https://www.facebook.com/akash.gohil.37/" target="_blank"><img src="/Images/facebook.png" height=30 width=30></a>
   &nbsp;&nbsp;
   <!--  Instagram Link  -->
   <a href="https://www.instagram.com/aakash.gohil__/" target="_blank"><img src="/Images/instagram.png" height=30 width=30></a>
