@@ -71,27 +71,27 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
 <!-- My GitHub Stats -->
 <h3 align="center"><i>GitHub Stats</i></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Vora&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=akashgohil&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora"> 
 </p>
 
 <!-- My Coding Stats -->
 <h3 align="center"><i>Coding Stats</i></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Vora&langs_count=10&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashgohil&langs_count=10&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora">
 </p>
 
 <!--  Reach me using following platform  -->
 <h3 align="center"><i>Reach Me At</i></h3>
 <p align= "center">
   <!--  Linkedin Link  -->
-  <a href="https://www.linkedin.com/in/yashvora007/" target="_blank"><img src="/Images/linkedin_icon.png" height=30 width=30></a>
+  <a href="https://www.linkedin.com/in/akash-gohil/" target="_blank"><img src="/Images/linkedin.png" height=30 width=30></a>
   &nbsp;&nbsp;
   <!--  Twitter Link  -->
-  <a href="https://twitter.com/YashVor68839020" target="_blank"><img src="/Images/twitter_icon.png" height=30 width=30></a>
+  <a href="https://twitter.com/gohilakash1442" target="_blank"><img src="/Images/twitter.png" height=30 width=30></a>
   &nbsp;&nbsp;
   <!--  Facebook Link  -->
-  <a href="https://www.facebook.com/yash.vora.988/" target="_blank"><img src="https://www.flaticon.com/free-icon/facebook_124010" height=30 width=30></a>
+  <a href="https://www.facebook.com/akash.gohil.37/" target="_blank"><img src="facebook.png" height=30 width=30></a>
   &nbsp;&nbsp;
-  <!--  Google Link  -->
-  <a href="mailto:yashcvora@gmail.com" target="_blank"><img src="/Images/google_icon.png" height=30 width=30></a>
+  <!--  Instagram Link  -->
+  <a href="https://www.instagram.com/aakash.gohil__/" target="_blank"><img src="/Images/instagram.png" height=30 width=30></a>
 </p>
