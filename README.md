@@ -5,9 +5,9 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height=25 width=25> I'm Akash Gohil
 
-  - 🌱 I’m currently learning everthing about<b> Data Science 😂</b>.
-  - 💬 Ask me about <b>Python, R, Data Science, Machine Learning, SQL, Tableau & Wordpress</b>.
-  - 🤔 I’m actively looking for <b>Data Scientist</b> job.
+  - 🌱 I’m currently learning everthing about<b> Data Science</b>.
+  - 💬 Ask me about <b>Python, R, Data Science, Machine Learning, SQL, Tableau & WordPress </b>.
+  - 🤔 I’m Senior Data Processing Specialist at <b>NielsenIQ<b>.
   - ⚡ Fun fact : I love to watch sci-fi movies & playing games.
 
 <!-- More details about me -->
@@ -19,9 +19,9 @@ akashgohil/akashgohil is a ✨ special ✨ repository because its `README.md` (t
     I love Data Science and every day I am learning to apply the principles of Data Science, Analytics & Business Intelligence in solving problems for research.
     I have been learning to solve problems in Data cleaning, Data preprocessing, EDA, using the tools and methods of Data Science and Analytics.
 
-    Academically, I'm a sound person with good knowledge of Algorithms and Data Structures. I also worked with WordPress having good knowledge of SEO.
+    Academically, I'm a sound person with good knowledge of Algorithms and Data Structures. I also worked with WordPress having good understanding of SEO.
   If you want to check my work then just visit my repository.<br>
-    If you want to know more about me then just visit my linkedin profile.
+    If you want to know more about me then just visit my LinkedIn profile.
 </details>
 
 <!-- Tools & Technologies -->
